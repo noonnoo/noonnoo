@@ -25,6 +25,8 @@ school🏠: Sookmyung Womens University
 major👩‍💻: IT Engineering
 
 
+![noonnoo's github stats](https://github-readme-stats.vercel.app/api?username=noonnoo&show_icons=true)
+
 
 [![Solved.ac
 tier](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/profile/kdy246)
