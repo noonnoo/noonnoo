@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-blog💻: https://blog.naver.com/kdy246  
-email📧: kdy24610@gmail.com  
-school🏠: Sookmyung Womens University  
-major👩‍💻: IT Engineering
-
-
 [![Solved.ac
 tier](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/profile/kdy246)
 
 ![noonnoo's github stats](https://github-readme-stats.vercel.app/api?username=noonnoo&show_icons=true)
+
+
+
+blog💻: https://blog.naver.com/kdy246  
+email📧: kdy24610@gmail.com  
+school🏠: Sookmyung Womens University  
+major👩‍💻: IT Engineering
