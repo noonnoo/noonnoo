@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac
-tier](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/profile/kdy246)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/kdy246)
 
 ![noonnoo's github stats](https://github-readme-stats.vercel.app/api?username=noonnoo&show_icons=true)
 
