@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 
 ⚡ 백준 알고리즘 문제 풀이 현황을 나타낸 solved.ac 지표입니다.  
-💬 This is an indicator of how much I solved algorithm problems in BOJ.
+💬 This is an indicator of how much I solved algorithm problems in BOJ.  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/kdy246)
 
 ⚡ 올해(2020) 깃허브 활용 지표입니다. 깃허브를 본격적으로 활성화 했고, 졸업프로젝트를 마무리 지었습니다.  
-💬 This is an indicator of how much I utilized github this year(2020). This year, I activated github in earnest and completed my graduation project.
+💬 This is an indicator of how much I utilized github this year(2020). This year, I activated github in earnest and completed my graduation project.  
 ![noonnoo's github stats](https://github-readme-stats.vercel.app/api?username=noonnoo&show_icons=true)
 
 
