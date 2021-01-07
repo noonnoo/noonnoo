@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/kdy246)  
   
 
-⚡ 올해(2020) 깃허브 활용 지표입니다. 깃허브를 본격적으로 활성화 했고, 졸업프로젝트를 마무리 지었습니다.  
-💬 This is an indicator of how much I used github this year(2020). This year, I activated github in earnest and completed my graduation project.  
-  
+⚡ 깃허브 활용 지표입니다. 
+💬 This is an indicator of how much I used github.  
+
 ![noonnoo's github stats](https://github-readme-stats.vercel.app/api?username=noonnoo&show_icons=true)
 
 
 💻 blog: https://blog.naver.com/kdy246  
 📧 email: kdy24610@gmail.com  
 🏠 school: Sookmyung Womens University  
-👩‍💻 major: IT Engineering
+👩‍💻 major: IT Engineering  
+🏢 work at SK C&C
