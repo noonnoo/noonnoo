@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 
 💻 blog: https://blog.naver.com/kdy246  
-📧 email: kdy24610@gmail.com
-👩‍💻 major: IT Engineering  
+📧 email: kdy24610@gmail.com  
+👩‍💻 major: IT Engineering    
 🏢 work at SK C&C
