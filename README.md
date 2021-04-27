@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 ⚡ 백준 알고리즘 문제 풀이 현황을 나타낸 solved.ac 지표입니다.  
 💬 This is an indicator of how much I solved algorithm problems in BOJ.  
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/kdy246)  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kdy246)](https://solved.ac/kdy246)  
   
 
-⚡ 깃허브 활용 지표입니다. 
+⚡ 깃허브 활용 지표입니다.  
 💬 This is an indicator of how much I used github.  
 
 ![noonnoo's github stats](https://github-readme-stats.vercel.app/api?username=noonnoo&show_icons=true)
